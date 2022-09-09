@@ -51,7 +51,7 @@ global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '6282319517960'
+global.pdana = '6289510402229'
 global.povo = '6282319517960'
 global.pgopay = 'TANYA OWNER'
 global.ppulsa = '085334930628'
@@ -60,21 +60,21 @@ global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6282319517960'
-global.nomorown = '6282319517960'
+global.nomorown = '6289510402229'
 global.namebot = 'Atsair BOT'
 global.nameown = 'Atsair Bilek'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282319517960'],
-  ['6282319517960'],
-  ['18126338970'],
-  ['6285334930628', 'Atsair Bilek', true]
+  ['6289510402229'],
+  ['6289510402229'],
+  ['6289510402229'],
+  ['6289510402229', 'Atsair Bilek', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [6282319517960] // Want some help?
-global.prems = [6282319517960] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = [6289510402229] // Want some help?
+global.prems = [6289510402229] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
